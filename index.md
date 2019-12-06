@@ -24,6 +24,7 @@ nav_order: 0
 
 1. [Install Signal](/signal)
 1. Get a password manager
+1. Switch to a browser that respects your privacy
 
 ## References
 
