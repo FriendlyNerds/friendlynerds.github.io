@@ -15,10 +15,19 @@ nav_order: 0
 
 ## Participant tasks
 
-
-1. [Install signal](/signal)
+1. [Have I Been Pwned?](https://haveibeenpwned.com) then [Slido](https://app.sli.do/event/gjvgs846/)
+1. How good are your password habits? Answer on [Slido](https://app.sli.do/event/gjvgs846/)
 1. [Encrypt your device](/encrypt)
+1. Read the Terms of Service for a company you use
+
+## Homework
+
+1. [Install Signal](/signal)
+1. Get a password manager
 
 ## References
 
 * [World's Biggest Data Breaches & Hacks](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/)
+* [NSA Grid](https://projects.propublica.org/nsa-grid/)
+* [Have I Been Pwned?](https://haveibeenpwned.com)
+* [Cat Food video](https://youtu.be/U0SOxb_Lfps)
