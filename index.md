@@ -4,6 +4,7 @@
 
 layout: home
 title: Home
+nav_order: 0
 ---
 
 # Friendly nerds help you secure your campaigns
@@ -16,3 +17,8 @@ title: Home
 
 
 1. [Install signal](/signal)
+1. [Encrypt your device](/encrypt)
+
+## References
+
+* [World's Biggest Data Breaches & Hacks](https://informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/)
