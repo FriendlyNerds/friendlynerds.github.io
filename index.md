@@ -31,3 +31,7 @@ nav_order: 0
 * [NSA Grid](https://projects.propublica.org/nsa-grid/)
 * [Have I Been Pwned?](https://haveibeenpwned.com)
 * [Cat Food video](https://youtu.be/U0SOxb_Lfps)
+* [Soshona Zuboff](https://www.youtube.com/watch?v=w2lbYIr05-8)
+* [Amnesty’s Surveillance report](https://www.amnesty.org/download/Documents/POL3014042019ENGLISH.PDF)
+
+[The slide deck is available here](https://docs.google.com/presentation/d/1DJEXmXU9eMO_fRzu3AsDPocDoT9KqOGsEZUOUBTQ_qM/edit)
